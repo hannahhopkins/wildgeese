@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Wild Geese" ] },
+    "summary": { "en": [ "From the interview documentation on the On Being webpage: &quot;Mary Oliver was one of our greatest and most beloved poets. She is often quoted by people across ages and backgrounds — and it’s fitting, since she described poetry as a sacred community ritual. “When you write a poem, you write it for anybody and everybody,” she said. Mary died on January 17, 2019, at the age of 83. She was a prolific and decorated poet, whose honors included the Pulitzer Prize and the National Book Award. In this 2015 conversation — one of the rare interviews she granted during her lifetime — she discussed the wisdom of the world, the salvation of poetry, and the life behind her writing.&quot; " ] },
+    "items": [
+    ]
+}
